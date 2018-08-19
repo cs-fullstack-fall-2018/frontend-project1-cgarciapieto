@@ -32,6 +32,11 @@ h6 {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+h4, .post-subtitle2
+{
+    color: #32b72a;
+}
+
 a {
     color: #1436f1;
     -webkit-transition: all 0.2s;
